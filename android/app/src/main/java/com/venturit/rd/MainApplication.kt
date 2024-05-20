@@ -1,4 +1,4 @@
-package com.rootkitdefense
+package com.venturit.rd
 
 import android.app.Application
 import com.facebook.react.PackageList
